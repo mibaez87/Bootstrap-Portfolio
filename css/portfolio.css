@@ -1,0 +1,12 @@
+#turntable,
+#sonyTwo,
+#circuit,
+#headphones,
+#sony {
+    float: left;
+}
+
+#sonyTwo,
+#headphones {
+    margin-top: 20px;
+}
